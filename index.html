@@ -1,13 +1,19 @@
 ---
 layout: home
+images:
+  - url: https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg
+    title: Superlegerra
+  - url: https://c1.staticflickr.com/9/8137/8768963586_6593d4b8fa_b.jpg
+    title: Graffiti
 ---
 
 
 <div id="myCarousel" class="carousel slide">
     <div class="carousel-inner">
-      {% flickr_image 8768963586 m gallery %}
-      {% flickr_image 8523986301 m gallery %}
-      {% flickr_image 8768963586 m gallery %}
-      {% flickr_image 8523986301 m gallery %}
+      {% for img in page.images %}
+        <div class='item'>
+          <div class='fill' style='background-image:url({{img.url}});'></div>
+        </div>
+      {% endfor %}
     </div>
 </div>

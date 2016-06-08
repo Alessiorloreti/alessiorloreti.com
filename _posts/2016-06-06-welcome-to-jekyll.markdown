@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
-date:   2016-06-06 12:34:08 -0700
+title:  Welcome to my blog!
+date:   2016-06-06
 categories: update
 permalink: /welcome/
 ---
 
 This is where I'll post new stuff.
 
-<h1>Hello</h1>
+![Lambo](https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg){:class="blog-picture"}
 
-{% flickr_image 8768963586 m %}
+![Lambo](https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg){:class="blog-picture"}
+
+![Lambo](https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg){:class="blog-picture"}
