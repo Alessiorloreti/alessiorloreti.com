@@ -5,14 +5,23 @@ permalink: /images/
 images:
   - url: https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg
     title: Superlegerra
+    category: car
   - url: https://c1.staticflickr.com/9/8137/8768963586_6593d4b8fa_b.jpg
     title: Graffiti
+    category: art
+  - url: https://c1.staticflickr.com/9/8137/8768963586_6593d4b8fa_b.jpg
+    title: Graffiti
+    category: art
 ---
 
-{% for img in page.images %}
-  <div class='image'>
-    <a data-lightbox='gallery' data-title='{{img.title}}' href="{{img.url}}">
-      <div class='gallery_image' style='background-image:url("{{img.url}}");'></div>
-    </a>
-  </div>
-{% endfor %}
+<div class="categories"><button class="cat-btn" id="all">Show All</button></div>
+
+<div id="parent">
+  {% for img in page.images %}
+    <div class='image {{img.category}}'>
+      <a data-lightbox='gallery' data-title='{{img.title}}' data-category='{{img.category}}' href="{{img.url}}">
+        <div class='gallery_image' style='background-image:url("{{img.url}}");'></div>
+      </a>
+    </div>
+  {% endfor %}
+</div>

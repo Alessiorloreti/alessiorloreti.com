@@ -7,13 +7,14 @@ images:
     title: Graffiti
 ---
 
-
-<div id="myCarousel" class="carousel slide">
-    <div class="carousel-inner">
-      {% for img in page.images %}
-        <div class='item'>
-          <div class='fill' style='background-image:url({{img.url}});'></div>
-        </div>
-      {% endfor %}
-    </div>
+<div class="home">
+  <div id="myCarousel" class="carousel slide">
+      <div class="carousel-inner">
+        {% for img in page.images %}
+          <div class='item'>
+            <div class='fill' style='background-image:url({{img.url}});'></div>
+          </div>
+        {% endfor %}
+      </div>
+  </div>
 </div>
