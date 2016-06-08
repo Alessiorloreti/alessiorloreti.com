@@ -1,0 +1,26 @@
+.gallery_image {
+  position: absolute;
+  height:240px;
+  width: 240px;
+  display: inline-block;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.image {
+  display: inline-block;
+  padding: 0;
+  height: 240px;
+  width: 240px;
+}
+
+.picture {
+  margin-top: 20px;
+}
+.lb-outerContainer {
+  background: none;
+  border-radius: 0px;
+}
