@@ -16,10 +16,7 @@ $(window).load(function() {
     $(".categories").append($("<button>").addClass("cat-btn").attr("id", x).text(x));
   })
 
-  console.log(categories.sort());
-
   var $btns = $('.cat-btn').click(function() {
-    console.log(this.id);
     if (this.id == 'all') {
       $('#parent > div').fadeIn(450);
     } else {
