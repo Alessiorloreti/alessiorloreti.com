@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Squid chillwave yr heirloom jean shorts, lumbersexual taxidermy man braid cronut bitters ugh tattooed four dollar toast. Four dollar toast scenester chicharrones thundercats, disrupt heirloom blue bottle. Banjo keffiyeh vegan man braid gluten-free.
+{: .about}
+![profile image]({{ "/assets/images/headshot.jpg" | prepend: site.baseurl }}){: .headshot}
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+<div class="social_links">
+  <a target='_blank' href='https://www.instagram.com/AlessioRLoreti/'><i class='fa fa-instagram'></i>Instagram</a>
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+  <a target='_blank' href='https://www.flickr.com/photos/alessiorloreti'><i class='fa fa-flickr'></i>Flickr</a>
+
+  <a href='mailto:alessiorloreti@gmail.com?Subject=Hello'><i class="fa fa-envelope"></i>Email</a>
+</div>

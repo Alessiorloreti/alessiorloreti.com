@@ -46,8 +46,13 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $grey-color;
         line-height: $base-line-height;
+        letter-spacing: 2px;
+        font-size: 0.8em;
+        text-transform: uppercase;
+        padding-bottom: 5px;
+        border-bottom: 2px solid #eaeaea;
         &:hover {
           color: $brand-color;
         }

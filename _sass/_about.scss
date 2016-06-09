@@ -1,0 +1,35 @@
+.about {
+  width: 50%;
+  float: left;
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
+
+.headshot {
+  width: 50%;
+  float: right;
+  @include media-query($on-palm) {
+    width: 100%;
+  }
+}
+
+.social_links {
+    margin-top: 10px;
+    float: left;
+    a {
+    font-size: $base-font-size;
+    font-family: $base-font-family;
+    color: #777;
+    display: block;
+    margin: 7px 0px;
+      &:hover {
+        color: dodgerblue;
+      }
+    }
+    i {
+      margin-right: 8px;
+      color: #777;
+
+    }
+}

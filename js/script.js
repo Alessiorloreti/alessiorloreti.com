@@ -7,6 +7,7 @@ $(window).load(function() {
   //find all categories
   $(".image").each(function(){
     var cat = $(this).find("a").data("category")
+    cat = cat.substr(0,1).toUpperCase() + cat.substr(1);
     if (categories.indexOf(cat) == -1 ){ categories.push(cat) }
   });
 
@@ -26,7 +27,7 @@ $(window).load(function() {
       $('#parent > div').not($el).hide();
     }
     $btns.removeClass('active');
-    $(this).addClass('active');
+    if(this.id != 'all') {$(this).addClass('active');}
   })
 
 });
