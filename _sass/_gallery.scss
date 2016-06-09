@@ -6,13 +6,13 @@
 .image {
   display: inline-block;
   float: left;
-  width: calc(33% - 9.1px);
+  width: calc(33% - 16px);
   height: 200px;
   padding: 5px;
-  margin: 18px 18px 0px 0px;
-  &:last-of-type {
-    margin-right: 0;
-  }
+  margin: 18px 9px 0px 9px;
+  // &:last-of-type {
+  //   margin-right: 0;
+  // }
   @include media-query($on-palm) {
     height: 150px;
     width: calc(50% - 18px);
