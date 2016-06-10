@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Squid chillwave yr heirloom jean shorts, lumbersexual taxidermy man braid cronut bitters ugh tattooed four dollar toast. Four dollar toast scenester chicharrones thundercats, disrupt heirloom blue bottle. Banjo keffiyeh vegan man braid gluten-free. Beep beep.
+Squid chillwave yr heirloom jean shorts, lumbersexual taxidermy man braid cronut bitters ugh tattooed four dollar toast. Four dollar toast scenester chicharrones thundercats, disrupt heirloom blue bottle. Banjo keffiyeh vegan man braid gluten-free.
 {: .about}
 ![profile image]({{ "/assets/images/headshot.jpg" | prepend: site.baseurl }}){: .headshot}
 
