@@ -15,7 +15,7 @@
   }
   @include media-query($on-palm) {
     height: 150px;
-    width: calc(50% - 6px);
+    width: calc(50% - 9px);
     &:nth-child(even) {
       margin-right: 0;
     }
