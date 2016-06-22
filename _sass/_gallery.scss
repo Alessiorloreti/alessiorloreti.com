@@ -1,29 +1,22 @@
 #parent{
   height: 100%;
   width: 100%;
+  margin-top: 15px;
 }
 
 .image {
   display: inline-block;
   float: left;
-  width: calc(33% - 4px);
+  box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+  border: 5px solid white;
+  width: calc(33.3333%);
   height: 200px;
-  padding: 5px;
-  margin: 9px 9px 9px 0px;
-  &:nth-child(3n+3) {
-    margin-right: 0;
-  }
   @include media-query($on-palm) {
     height: 150px;
-    width: calc(50% - 9px);
-    &:nth-child(even) {
-      margin-right: 0;
-    }
-    &:nth-child(3n+3) {
-      margin-right: 9px;
-    }
+    width: calc(50%);
   }
-  box-shadow: 0 2px 5px 0 rgba(0,0,0,.15);
 }
 
 .gallery_image {
@@ -42,10 +35,14 @@
   button{
     padding: 2px 15px;
     margin-right: 7px;
-    border: 2px solid #fff;
+    border: 2px solid #eaeaea;
     border-radius: 5px;
-    background: #eaeaea;
-    color: $grey-color-dark;
+    background: #fff;
+    color: $grey-color;
+    text-transform: uppercase;
+    font-size: .8em;
+    font-weight: 700;
+    letter-spacing: 1px;
     &:hover {
       text-decoration: none;
       background: $grey-color;
@@ -54,10 +51,10 @@
     &:focus,:active {
       box-shadow: none;
       outline: none;
+      border: 2px solid $brand-color;
     }
   }
   .active {
-    background: $grey-color;
-    color: white;
+    //background: $grey-color-light;
   }
 }

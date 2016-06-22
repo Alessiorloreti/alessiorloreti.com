@@ -1,4 +1,14 @@
-$(window).load(function() {
+$(function() {
+  function preloadImage(url)
+  {
+    var img=new Image();
+    img.src=url;
+  }
+  $(".image").each(function(){
+    var img = $(this).find("a").attr("href")
+    preloadImage(img);
+  });
+
   $( ".carousel-inner .item:first-child" ).addClass("active")
   $('.carousel').carousel({ interval: 3500 });
 
