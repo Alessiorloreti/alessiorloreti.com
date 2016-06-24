@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-30. Photographer. Atlanta, GA.
+Photographer. 30. Atlanta, GA.
 
 Email for business inquiries or prints of any images on my site. 
 
