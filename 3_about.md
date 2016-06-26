@@ -7,7 +7,7 @@ permalink: /about/
 Atlanta, GA.
 Photographer.
 
-Email for business inquiries or prints of any images on my site. 
+Email for business inquiries or about purchasing any images. 
 
 Thank you for visiting my page.
 {: .about}
