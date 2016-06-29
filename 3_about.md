@@ -6,9 +6,9 @@ permalink: /about/
 30.
 Atlanta, GA.
 Photographer.
-
-Email for business inquiries or about purchasing any images. 
-
+<br><br>
+Email for business inquiries or about purchasing any images.
+<br><br>
 Thank you for visiting my page.
 {: .about}
 ![profile image]({{ "/assets/images/headshot.jpg" | prepend: site.baseurl }}){: .headshot}
