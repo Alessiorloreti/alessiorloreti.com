@@ -13,12 +13,11 @@ forward to exploring L.A. nonetheless for a couple of days.
 I arrived in L.A. Sunday afternoon to partly overcast skies and beautiful 70 degree weather. Since I only had 3 full days in L.A. and
 Monday/Tuesday would mostly be spent working all day and eveining, I knew my best chance for getting some photos was Sunday.
 
-My first stop was the In-N-Out on the northside of LAX. I knew there was a park across the street where I would hav a good opportunity to
-photograph planes coming in to land.
+My first stop was the In-N-Out on the northside of LAX. There is a park across the street where I have wanted to photograph planes coming in to land for awhile.
 
 ![Lambo](https://c2.staticflickr.com/8/7416/27761393355_b425678015_b.jpg){:class="blog-picture"}
 
-The planes were arriving about every 5 mins, but I mostly held out to shoot the larger ones. I managed to get a Delta A330 and EVA 777.
+The planes were arriving about every 5 mins, but I mostly held out to shoot the larger ones.
 
 ![Lambo](https://c2.staticflickr.com/8/7462/27660633812_1d7fe62ceb_b.jpg){:class="blog-picture"}
 
@@ -41,8 +40,9 @@ There were surfers in the water, kids playing on the beach, and even a guy propo
 ![Lambo](https://c2.staticflickr.com/8/7367/27482857640_0c63b5870e_c.jpg){:class="blog-picture"}
 
 After the sunset, I walked back up to the Strand and explored the area on my skateboard. The sky was a vibrant rainbow of colors...blue,
- green, yellow, orange, red. I stopped and stared up at the palm trees and sky and thought it was very symbolic after the mass
-shooting that took place in Orlando earlier that day at the Pulse nightclub. I sat for a couple minutes and took in the gorgeous landscape as the last light of the day faded away.
+green, yellow, orange, and red. I stopped and stared up at the palm trees in front of the sky and thought it was very symbolic after the
+mass shooting that took place in Orlando earlier that day at the Pulse nightclub. I sat for a couple minutes and took in the gorgeous
+landscape as the last light of the day faded away.
 
 ![Lambo](https://c2.staticflickr.com/8/7324/27368649090_231d9e9d44_c.jpg){:class="blog-picture"}
 
