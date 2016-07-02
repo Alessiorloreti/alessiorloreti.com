@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  LAX Manhattan Beach
+title:  LAX & Manhattan Beach
 date:   2016-07-01
 categories: update
 permalink: /LAX/
