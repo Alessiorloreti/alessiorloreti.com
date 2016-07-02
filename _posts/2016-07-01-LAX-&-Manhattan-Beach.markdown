@@ -11,7 +11,7 @@ got word that they needed me to fly to our LA office to help on a project. It's 
 forward to exploring L.A. nonetheless for a couple of days.
 
 I arrived in L.A. Sunday afternoon to partly overcast skies and beautiful 70 degree weather. Since I only had 3 full days in L.A. and
-Monday/Tuesday would mostly be spent working all day andeveining, I knew my best chance for getting some photos was Sunday.
+Monday/Tuesday would mostly be spent working all day and eveining, I knew my best chance for getting some photos was Sunday.
 
 My first stop was the In-N-Out on the northside of LAX. I knew there was a park across the street where I would hav a good opportunity to
 photograph planes coming in to land.
