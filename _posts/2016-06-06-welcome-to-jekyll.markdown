@@ -8,5 +8,5 @@ permalink: /welcome/
 
 Stay tuned for posts on upcoming trips and photo/editing tutorials.
 
-![Lambo](https://c1.staticflickr.com/9/8089/8523986301_03092e41c4_b.jpg){:class="blog-picture"}
+![Lambo](https://c1.staticflickr.com/9/8732/16853823702_7b5b23fce2_b.jpg){:class="blog-picture"}
 
