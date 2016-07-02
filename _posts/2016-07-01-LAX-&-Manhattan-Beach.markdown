@@ -7,7 +7,7 @@ permalink: /LAX/
 ---
 
 I switched jobs in 2015 and my work trips went from about 2-3 destinations a month, to none. After 10 months with my new job, I finally
-got word that they needed me to fly out to our LA office to work on a project. It's not Dubai or Paris or Hong Kong, but I was looking
+got word that they needed me to fly to our LA office to help on a project. It's not Dubai or Paris or Hong Kong, but I was looking
 forward to exploring L.A. nonetheless for a couple of days.
 
 I arrived in L.A. Sunday afternoon to partly overcast skies and beautiful 70 degree weather. Since I only had 3 full days in L.A. and
