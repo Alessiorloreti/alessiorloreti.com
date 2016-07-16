@@ -9,11 +9,12 @@ permalink: /Midtown/
 Gear:
 
 Camera - Sony A6000
-
 Lenses - Sony 16-50mm f/3.5-5.6
-         Rokinon 12mm f/2.0
-         Sony 18-105mm f/4
 
+         Rokinon 12mm f/2.0
+         
+         Sony 18-105mm f/4
+         
 My first stop was the In-N-Out on the northside of LAX. There is a park across the street where I have wanted to photograph planes coming in to land for awhile.
 
 ![Lambo](https://c2.staticflickr.com/8/7416/27761393355_b425678015_b.jpg){:class="blog-picture"}
