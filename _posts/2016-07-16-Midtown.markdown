@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  LAX & Manhattan Beach
-date:   2016-07-01
+title:  Midtown Exploring
+date:   2016-07-16
 categories: update
-permalink: /LAX/
+permalink: /Midtown/
 ---
 
 I switched jobs in 2015 and my work trips went from about 2-3 destinations a month, to none. After 10 months with my new job, I finally
