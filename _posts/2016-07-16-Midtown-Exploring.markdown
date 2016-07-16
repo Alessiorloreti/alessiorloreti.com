@@ -12,27 +12,29 @@ Camera - Sony A6000
 
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 
-My first stop was the In-N-Out on the northside of LAX. There is a park across the street where I have wanted to photograph planes coming
-in to land for awhile.
+My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and get 
+some good shots of Midtown, so I texted him back and we made a plan for that night.
+
+Our first stop was Colony Square on Peachtree Street between 14th & 15th streets. Within the last year the owners have put a lot of money
+into the development, so we walked around checking out the new additions. I had seen a cool spiral staircase there before, so we went and
+checked it out.
 
 ![Lambo](https://c2.staticflickr.com/8/7584/28352461975_f3d2feb601_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
 
-The planes were arriving about every 5 mins, but I mostly held out to shoot the larger ones.
+Then we headed inside to check out the mall level and came across this awesome atrium with multiple levels of escalators.
 
 ![Lambo](https://c1.staticflickr.com/9/8744/28249098572_007ef26bed_b.jpg){:class="blog-picture"}
 f/3.5 | 1/60 | ISO 1250
 
-Next stop was my hotel to drop off my bags, recharge my phone, and Uber to the beach for sunset.
-
-I arrived at Manhattan Beach Pier around 7:30pm, with about an hour left of sun light remaining. Golden hour was full on and I was
-cruising up and down the Strand on my Penny Board snapping away.
+Next stop was a parking garage about a block away. We got to the top floor with about 20 minutes before the sun was about to set. The
+parking garage offered some cool unobstructed views of the surrounding skyscrapers.
 
 ![Lambo](https://c1.staticflickr.com/9/8849/28249095492_79b42110fa_c.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
 
-As the sun was just about to drop below the horizon, I walked down to the water by the pier to get some sunburst shots and try to get the
-reflection of the sun off the water.
+Once the sun went down we walked around the area, eventually ending up at the Midtown Arts Center MARTA station. We only hung around for about 15 minutes because it was so hot down there, but we both managed to get some interesting shots of the arriving and departing
+trains.
 
 ![Lambo](https://c1.staticflickr.com/9/8604/27736847743_fc3846fff8_b.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
@@ -40,25 +42,21 @@ f/4 | 1/5 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8665/28352445095_8d125b1fb1_c.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
 
-There were surfers in the water, kids playing on the beach, and even a guy proposing to his girlfriend in front of their families.
+From there we headed back towards Colony Square so Jon could try out his new fisheye on the MIDTOWN sign. As he was getting some shots, I
+noticed a bike rack also with the word "Midtown" on it and snapped a couple photos.
 
 ![Lambo](https://c1.staticflickr.com/9/8848/28070030520_4a3ce3c564_c.jpg){:class="blog-picture"}
 f/3.5 | 1/25 | ISO 3200
 
-After the sunset, I walked back up to the Strand and explored the area on my skateboard. The sky was a vibrant rainbow of colors...blue,
-green, yellow, orange, and red. I stopped and stared up at the palm trees in front of the sky and thought it was very symbolic after the
-mass shooting that took place in Orlando earlier that day at the Pulse nightclub. I sat for a couple minutes and took in the gorgeous
-landscape as the last light of the day faded away.
+We finished off the night in the middle of Peachtree (on a concrete median), getting some shots of the passing traffic and highrise
+buildings.
 
 ![Lambo](https://c1.staticflickr.com/9/8744/27736843583_4c1031cea3_c.jpg){:class="blog-picture"}
 f/4 | 1/25 | ISO 3200
 
-I skated some more until my phone died and had to find a Starbucks to charge it up so that I could Uber back to the hotel. It was a short
-evening out taking photos but it was good to have a change of scenery and be back close to the beach.
-
 ![Lambo](https://c1.staticflickr.com/9/8892/27736838953_de02c726d5_b.jpg){:class="blog-picture"}
 f/4 | 1/10 | ISO 3200
 
-I skated some more until my phone died and had to find a Starbucks to charge it up so that I could Uber back to the hotel. It was a short
-evening out taking photos but it was good to have a change of scenery and be back close to the beach.
+Although the heat of a July night is pretty brutal, I'm glad Jon hit me up to go explore and we both ended up with some pretty good
+shots.
 
