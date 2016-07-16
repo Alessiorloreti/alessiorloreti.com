@@ -6,12 +6,11 @@ categories: update
 permalink: /Midtown/
 ---
 
-I switched jobs in 2015 and my work trips went from about 2-3 destinations a month, to none. After 10 months with my new job, I finally
-got word that they needed me to fly to our LA office to help on a project. It's not Dubai or Paris or Hong Kong, but I was looking
-forward to exploring L.A. nonetheless for a couple of days.
-
-I arrived in L.A. Sunday afternoon to partly overcast skies and beautiful 70 degree weather. Since I only had 3 full days in L.A. and
-Monday/Tuesday would mostly be spent working all day and eveining, I knew my best chance for getting some photos was Sunday.
+Gear:
+Camera - Sony A6000
+Lenses - Sony 16-50mm f/3.5-5.6
+         Rokinon 12mm f/2.0
+         Sony 18-105mm f/4
 
 My first stop was the In-N-Out on the northside of LAX. There is a park across the street where I have wanted to photograph planes coming in to land for awhile.
 
