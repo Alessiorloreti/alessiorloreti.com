@@ -21,7 +21,7 @@ checked it out.
 ![Lambo](https://c2.staticflickr.com/8/7584/28352461975_f3d2feb601_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
 
-Then we headed inside to check out the mall level and came across this awesome atrium with multiple levels of escalators.
+Then we headed inside to check out the mall and came across this awesome atrium with multiple levels of escalators.
 
 ![Lambo](https://c1.staticflickr.com/9/8744/28249098572_007ef26bed_b.jpg){:class="blog-picture"}
 f/3.5 | 1/60 | ISO 1250
