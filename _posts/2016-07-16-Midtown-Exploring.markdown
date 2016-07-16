@@ -51,13 +51,13 @@ mass shooting that took place in Orlando earlier that day at the Pulse nightclub
 landscape as the last light of the day faded away.
 
 ![Lambo](https://c1.staticflickr.com/9/8744/27736843583_4c1031cea3_c.jpg){:class="blog-picture"}
-f/6.3 | 1/25 | ISO 3200
+f/4 | 1/25 | ISO 3200
 
 I skated some more until my phone died and had to find a Starbucks to charge it up so that I could Uber back to the hotel. It was a short
 evening out taking photos but it was good to have a change of scenery and be back close to the beach.
 
 ![Lambo](https://c1.staticflickr.com/9/8892/27736838953_de02c726d5_b.jpg){:class="blog-picture"}
-f/6.3 | 1/10 | ISO 3200
+f/4 | 1/10 | ISO 3200
 
 I skated some more until my phone died and had to find a Starbucks to charge it up so that I could Uber back to the hotel. It was a short
 evening out taking photos but it was good to have a change of scenery and be back close to the beach.
