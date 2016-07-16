@@ -12,7 +12,7 @@ Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 .........................................................................................................................................
 
 My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and get 
-some good shots of Midtown, so I texted him back and we made a plan for that night.
+some good of Midtown, so I texted him back and we made a plan for that night.
 
 Our first stop was Colony Square on Peachtree Street between 14th & 15th streets. Within the last year the owners have put a lot of money
 into the development, so we walked around checking out the new additions. I had seen a cool spiral staircase there before, so we went and
