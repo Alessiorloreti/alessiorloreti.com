@@ -6,8 +6,8 @@ categories: update
 permalink: /Midtown/
 ---
 
-Gear:
 Camera - Sony A6000
+
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
   
 My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and get 
