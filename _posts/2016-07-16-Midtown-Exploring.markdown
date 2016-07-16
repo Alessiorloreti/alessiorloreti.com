@@ -16,6 +16,7 @@ My first stop was the In-N-Out on the northside of LAX. There is a park across t
 in to land for awhile.
 
 ![Lambo](https://c2.staticflickr.com/8/7584/28352461975_f3d2feb601_b.jpg){:class="blog-picture"}
+f/6.3 | 1/100 | ISO 100
 
 The planes were arriving about every 5 mins, but I mostly held out to shoot the larger ones.
 
