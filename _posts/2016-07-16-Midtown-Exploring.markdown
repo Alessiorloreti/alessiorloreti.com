@@ -42,13 +42,13 @@ f/4 | 1/5 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8665/28352445095_8d125b1fb1_c.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
 
-From there we headed back towards Colony Square so Jon could try out his new fisheye on the MIDTOWN sign. As he was getting some shots, I
+From there we walked back towards Colony Square so Jon could try out his new fisheye on the MIDTOWN sign. As he was getting some shots, I
 noticed a bike rack also with the word "Midtown" on it and snapped a couple photos.
 
 ![Lambo](https://c1.staticflickr.com/9/8848/28070030520_4a3ce3c564_c.jpg){:class="blog-picture"}
 f/3.5 | 1/25 | ISO 3200
 
-We finished off the night in the middle of Peachtree (on a concrete median), getting some shots of the passing traffic and highrise
+We finished off the night in the middle of Peachtree (on a concrete median), getting some photos of the passing traffic and highrise
 buildings.
 
 ![Lambo](https://c1.staticflickr.com/9/8744/27736843583_4c1031cea3_c.jpg){:class="blog-picture"}
@@ -58,7 +58,7 @@ f/4 | 1/25 | ISO 3200
 f/4 | 1/10 | ISO 3200
 
 Although the heat of a July night is pretty brutal, I'm glad Jon hit me up to go explore. We had a good time chatting about
-camera gear/settings and both ended up with some pretty good photos to head home and edit.
+camera gear/settings and both ended up with some pretty decent photos to head home and edit.
 
 Check out Jon's Flickr page for some of his shots from the night:
 
