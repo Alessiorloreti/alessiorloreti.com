@@ -57,8 +57,8 @@ f/4 | 1/25 | ISO 3200
 ![Lambo](https://c1.staticflickr.com/9/8892/27736838953_de02c726d5_b.jpg){:class="blog-picture"}
 f/4 | 1/10 | ISO 3200
 
-Although the heat of a July night is pretty brutal, I'm glad Jon hit me up to get out and explore. We had a good time chatting about
-camera gear/settings, future projects, and both ended up with some pretty decent photos to head home and edit.
+Although the heat of a July night is pretty brutal, I'm glad Jon hit me up to get out and explore. I had a good time chatting with him
+about camera gear/settings, future projects, and we both ended up with some pretty decent photos to head home and edit.
 
 Check out Jon's Flickr page for some of his shots from the night:
 
