@@ -32,7 +32,8 @@ parking garage offered some cool unobstructed views of the surrounding skyscrape
 ![Lambo](https://c1.staticflickr.com/9/8849/28249095492_79b42110fa_c.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
 
-Once the sun went down we walked around the area, eventually ending up at the Midtown Arts Center MARTA station. We only hung around for about 15 minutes because it was so hot down there, but we both managed to get some interesting shots of the arriving and departing
+Once the sun went down we walked around the area, eventually ending up at the Midtown Arts Center MARTA station. We only hung around for 
+about 15 minutes since it was so hot down there, but we both managed to get some interesting shots of the arriving and departing
 trains.
 
 ![Lambo](https://c1.staticflickr.com/9/8604/27736847743_fc3846fff8_b.jpg){:class="blog-picture"}
