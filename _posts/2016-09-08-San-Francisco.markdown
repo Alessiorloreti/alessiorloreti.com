@@ -18,11 +18,11 @@ For Labor Day weekend I decided to head out west and meet my family in San Franc
 I arrived into SFO Friday evening, and got picked up by my brothers and dad. As soon as we got to my brother's apartment in the city, we all decided to walk down to the waterfront, as the sun was setting and for what looked like the makings of an epic sunset. We weren't dissappointed and arrived just in time. 
 
 ![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){:class="blog-picture"}
-f/6.3 | 1/100 | ISO 100
+f/6.3 | 1/80 | ISO 1250
 
 
 ![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
-f/3.5 | 1/60 | ISO 1250
+f/6.3 | 1/60 | ISO 3200
 
 **_Day 1:_**
 
@@ -31,26 +31,26 @@ The first night was pretty low key and we all caught up on some much needed rest
 The weather was overcast and chilly most of the morning/afternoon, but the landscape was still very beautiful.
 
 ![Lambo](https://c1.staticflickr.com/9/8427/29540432285_0465465c25_b.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/4 | 1/800 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8012/29431234912_ed8a219382_c.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/4.5 | 1/800 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8362/29540448005_f9aef9d0cb_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/5 | 1/160 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8844/29431241372_986ecb36cd_c.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/6.3 | 1/400 | ISO 100
 
 After lunch and some time walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto.
 
 ![Lambo](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){:class="blog-picture"}
-f/3.5 | 1/25 | ISO 3200
+f/6.3 | 1/4000 | ISO 100
 
 We played a game of soccer at a local park, and then headed back to SF as the sun was setting. We finished off the night with dinner at an Italian restaurant in the Richmond District. 
 
 ![Lambo](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){:class="blog-picture"}
-f/4 | 1/25 | ISO 3200
+f/4 | 1/80 | ISO 100
 
 **_Day 2:_**
 
