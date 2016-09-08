@@ -11,10 +11,11 @@ Camera - Sony A6000
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 .........................................................................................................................................
 
-My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and 
-take some photos of Midtown, so I texted him back and we made a plan for that night.
+For Labor Day weekend I decided to head out west and meet my family in San Francisco for a couple days of exploring and great food/coffee. Here are some of the photos from the 3 days we spent together.
 
+Day 0.5:
 
+I arrived Friday evening into SFO and as soon as we got to my brothers apartment in the city, we decided to walk a couple blocks down to the water for what looked like the makings of an epic sunset. 
 
 ![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
