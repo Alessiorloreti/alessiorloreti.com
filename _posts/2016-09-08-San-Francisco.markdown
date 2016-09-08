@@ -76,3 +76,38 @@ f/4 | 1/5 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
 
 f/4 | 1/5 | ISO 100
+
+Later in the day, we relaxed for a little back at the apartment, and then walked down to the nearby park for a quick game of basketball. Here's my brother attempting to dunk...
+
+![Lambo](https://c1.staticflickr.com/9/8034/28918001143_1784b9d688_b.jpg){:class="blog-picture"}
+f/6.3 | 1/400 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8020/28917992533_5a993919b1_c.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+We finished off the evening by flying my brother's drone from the roof of the apartment and then dinner & ice cream.
+
+![Lambo](https://c1.staticflickr.com/9/8280/29250836490_0bae3131a1_c.jpg){:class="blog-picture"}
+f/6.3 | 1/400 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8208/28918003833_e4a4edd666_b.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+**_Day 3:_**
+
+I had to get to the airport around noon, so we didn't have time to do much that last morning. After coffee and making breakfast at home, we said our goodbyes, and I headed to the airport.
+
+On the way, I asked my brother if we could stop at Treasure Island to get a couple last photos of the Bay Bridge and downtown San Francisco.
+
+![Lambo](https://c1.staticflickr.com/9/8669/29431335362_1ce0f5c6ca_b.jpg){:class="blog-picture"}
+f/6.3 | 1/400 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+It was a quick trip, but a much needed break from work and the heat of the South. As always, it was awesome spending time with my family and going back to one of my favorite cities in the U.S.
+
+So long S.F., now back to Atlanta.
+
+![Lambo](https://c1.staticflickr.com/9/8166/29250882180_e27394d846_b.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
