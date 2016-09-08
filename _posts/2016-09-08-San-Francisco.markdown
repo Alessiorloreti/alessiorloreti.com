@@ -15,7 +15,7 @@ For Labor Day weekend I decided to head out west and meet my family in San Franc
 
 **_Day 0.5:_**
 
-I arrived Friday evening into SFO and as soon as we got to my brothers apartment in the city, we decided to walk a couple blocks down to the water for what looked like the makings of an epic sunset. 
+I arrived into SFO Friday evening, and got picked up by my brothers and dad. As soon as we got to my brother's apartment in the city, we all decided to walk down to the waterfront, as the sun was setting and for what looked like the makings of an epic sunset. We weren't dissappointed and arrived just in time. 
 
 ![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
