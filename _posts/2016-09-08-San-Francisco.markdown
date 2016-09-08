@@ -57,41 +57,41 @@ f/4 | 1/80 | ISO 100
 The next morning started with...you guessed it, awesome coffee! This time we opted for a place walking distance from my brothers apartment in Russian Hill.
 
 ![Lambo](https://c1.staticflickr.com/9/8322/29459942161_8245799e26_b.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/2 | 1/125 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8051/29459938951_fb58254731_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/8 | 1/1000 | ISO 100
 
 From there we headed to Ocean Beach and the Sutro Baths. We lucked out as the weather was sunny and warm all over the city that day.
 
 ![Lambo](https://c1.staticflickr.com/9/8098/29459945961_c7352f1192_b.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/8 | 1/4000 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8065/29506285666_e5baafa019_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/8 | 1/640 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8331/29459961791_afece3ab9a_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/8 | 1/400 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
 
-f/4 | 1/5 | ISO 100
+f/8 | 1/320 | ISO 100
 
-Later in the day, we relaxed for a little bit and watched college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's my brother attempting to dunk...
+Later in the day, we relaxed for a little bit and watched college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's one of my brothers attempting to dunk...
 
 ![Lambo](https://c1.staticflickr.com/9/8034/28918001143_1784b9d688_b.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/5 | 1/1250 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8020/28917992533_5a993919b1_c.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/4.5 | 1/4000 | ISO 100
 
 When we got back home, we snuck onto the roof of the apartment to fly my brother's drone. The view from up there really makes you appreciate how big the city of San Francisco is. Also, it doesn't matter how many times I see the Golden Gate Bridge, it's always impressive and worth a photo.
 
 ![Lambo](https://c1.staticflickr.com/9/8280/29250836490_0bae3131a1_c.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/9 | 1/250 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8208/28918003833_e4a4edd666_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/5 | 1/2500 | ISO 100
 
 **_Day 3:_**
 
@@ -100,14 +100,14 @@ And just like that, the trip was pretty much over. I had to get to the airport a
 On the way, I asked my brother if we could stop at Treasure Island to get a few final photos of the Bay Bridge and downtown San Francisco.
 
 ![Lambo](https://c1.staticflickr.com/9/8669/29431335362_1ce0f5c6ca_b.jpg){:class="blog-picture"}
-f/6.3 | 1/400 | ISO 100
+f/6.3 | 1/800 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/6.3 | 1/800 | ISO 100
 
 The weekend flew by, but it was a much needed break from work and the heat of summer in the South. As always, it was awesome spending time with family and going back to one of my favorite cities in the U.S.
 
 So long San Francisco, now back to Atlanta.
 
 ![Lambo](https://c1.staticflickr.com/9/8166/29250882180_e27394d846_b.jpg){:class="blog-picture"}
-f/4 | 1/5 | ISO 100
+f/3.5 | 1/8 | ISO 100
