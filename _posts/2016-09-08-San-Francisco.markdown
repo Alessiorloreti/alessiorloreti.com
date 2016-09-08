@@ -9,6 +9,7 @@ permalink: /SF/
 Camera - Sony A6000
 
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
+
 ---
 
 For Labor Day weekend I decided to head out west and meet my family in San Francisco for a couple days of exploring and enjoying some ~~good~~ ...great food/coffee. Here are some of the photos from the 3 days we spent together.
