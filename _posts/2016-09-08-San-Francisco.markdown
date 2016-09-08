@@ -11,14 +11,12 @@ Camera - Sony A6000
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 .........................................................................................................................................
 
-My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and take
-some photos of Midtown, so I texted him back and we made a plan for that night.
+My buddy Jon texted me Friday afternoon to see if I was down to go out that night and take photos. I had been itching to get out and 
+take some photos of Midtown, so I texted him back and we made a plan for that night.
 
-Our first stop was Colony Square on Peachtree Street between 14th & 15th streets. Within the last year the owners have put a lot of money
-into the development, so we walked around checking out the new additions. I had seen a cool spiral staircase there before, so we went and
-checked it out.
 
-![Lambo](https://c2.staticflickr.com/8/7584/28352461975_f3d2feb601_b.jpg){:class="blog-picture"}
+
+![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
 
 Then we headed inside to check out the mall and came across this awesome atrium with multiple levels of escalators.
