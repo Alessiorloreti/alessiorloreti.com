@@ -54,13 +54,13 @@ The weather was overcast and chilly most of the morning/afternoon, but the lands
 
 After lunch and about 2 hours of walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto. Blue Bottle Coffee is always on my itinerary when visiting the Bay Area. The Palo Alto location was really unique as it is housed in the Varsity Theatre, which was built in the 1920s and has a cool open courtyard.
 
-![](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){:class="blog-picture"}
+![](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){: .blog-picture}
 
 >f/6.3 \| 1/4000 \| ISO 100
 
 Later we played a game of soccer at a local park, and then headed back to SF as the sun was setting. We finished off the night with dinner at an Italian restaurant in the Richmond District. 
 
-![](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){:class="blog-picture"}
+![](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){: .blog-picture}
 
 >f/4 \| 1/80 \| ISO 100
 
@@ -106,11 +106,11 @@ Later in the day, we relaxed for a little bit and watched some college football,
 
 When we got back home, we snuck onto the roof of the apartment to fly my brother's drone. The view from up there really makes you appreciate how big the city of San Francisco is. Also, it doesn't matter how many times I see the Golden Gate Bridge, it's always impressive and worth a photo.
 
-![](https://c1.staticflickr.com/9/8280/29250836490_0bae3131a1_c.jpg){:class="blog-picture"}
+![](https://c1.staticflickr.com/9/8280/29250836490_0bae3131a1_c.jpg){: .blog-picture}
 
 >f/9 \| 1/250 \| ISO 100
 
-![](https://c1.staticflickr.com/9/8208/28918003833_e4a4edd666_b.jpg){:class="blog-picture"}
+![](https://c1.staticflickr.com/9/8208/28918003833_e4a4edd666_b.jpg){: .blog-picture}
 
 >f/5 \| 1/2500 \| ISO 100
 
@@ -120,11 +120,11 @@ And just like that, the trip was pretty much over. I had to get to the airport a
 
 On the way, I asked my brother if we could stop at Treasure Island to get a few final photos of the Bay Bridge and downtown San Francisco.
 
-![Lambo](https://c1.staticflickr.com/9/8669/29431335362_1ce0f5c6ca_b.jpg){:class="blog-picture"}
+![Lambo](https://c1.staticflickr.com/9/8669/29431335362_1ce0f5c6ca_b.jpg){: .blog-picture}
 
 >f/6.3 \| 1/800 \| ISO 100
 
-![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){:class="blog-picture"}
+![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){: .blog-picture}
 
 >f/6.3 \| 1/800 \| ISO 100
 
@@ -132,6 +132,6 @@ The weekend flew by way too fast, but it was definitely a much needed break from
 
 So long San Francisco, now back to Atlanta.
 
-![Lambo](https://c1.staticflickr.com/9/8166/29250882180_e27394d846_b.jpg){:class="blog-picture"}
+![Lambo](https://c1.staticflickr.com/9/8166/29250882180_e27394d846_b.jpg){: .blog-picture}
 
 >f/3.5 \| 1/8 \| ISO 100
