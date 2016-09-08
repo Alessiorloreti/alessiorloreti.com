@@ -13,7 +13,7 @@ Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 
 For Labor Day weekend I decided to head out west and meet my family in San Francisco for a couple days of exploring and ~~good~~ ...great food/coffee. Here are some of the photos from the 3 days we spent together.
 
-Day 0.5:
+_Day 0.5:_**
 
 I arrived Friday evening into SFO and as soon as we got to my brothers apartment in the city, we decided to walk a couple blocks down to the water for what looked like the makings of an epic sunset. 
 
