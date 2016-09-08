@@ -19,9 +19,8 @@ take some photos of Midtown, so I texted him back and we made a plan for that ni
 ![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){:class="blog-picture"}
 f/6.3 | 1/100 | ISO 100
 
-Then we headed inside to check out the mall and came across this awesome atrium with multiple levels of escalators.
 
-![Lambo](https://c1.staticflickr.com/9/8744/28249098572_007ef26bed_b.jpg){:class="blog-picture"}
+![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
 f/3.5 | 1/60 | ISO 1250
 
 Next stop was a parking garage about a block away. We got to the top floor with about 20 minutes before the sun was about to set. The
