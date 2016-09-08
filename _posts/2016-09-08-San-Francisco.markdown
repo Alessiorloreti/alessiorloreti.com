@@ -26,7 +26,7 @@ f/6.3 | 1/60 | ISO 3200
 
 **_Day 1:_**
 
-The first night was pretty low key and we all caught up on some much needed rest. Once we awoke, we headed out for coffee and pastries for breakfast at Ghiradelli Square. After that, we agreed on getting out of the city for a drive down Highway 1 towards Pacifica and Half Moon Bay to spend some time along the coast.
+The first night was pretty low key and I caught up on some much needed rest (other than a bum yelling at his suitcase in the street in the middle of the night). Once we were all up, we headed out for coffee and pastries at a little spot in Ghiradelli Square. At breakfast we agreed on the plan for the day and decided to get out of the city for a drive down Highway 1 towards Pacifica and Half Moon Bay along the coast.
 
 The weather was overcast and chilly most of the morning/afternoon, but the landscape was still very beautiful.
 
