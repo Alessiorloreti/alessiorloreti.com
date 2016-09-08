@@ -26,9 +26,9 @@ f/3.5 | 1/60 | ISO 1250
 
 **_Day 1:_**
 
-After coffee and pastries in the city, we decided to drive down Highway 1 towards Pacifica and Half Moon Bay to spend some time along the coast.
+The first night was pretty low key and we all caught up on some much needed rest. Once we awoke, we headed out for coffee and pastries for breakfast at Ghiradelli Square. After that, we agreed on getting out of the city for a drive down Highway 1 towards Pacifica and Half Moon Bay to spend some time along the coast.
 
-The weather was pretty overcast and chilly, but the landscape was still very impressive.
+The weather was overcast and chilly most of the morning/afternoon, but the landscape was still very beautiful.
 
 ![Lambo](https://c1.staticflickr.com/9/8427/29540432285_0465465c25_b.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
