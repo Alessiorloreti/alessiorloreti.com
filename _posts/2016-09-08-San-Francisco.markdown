@@ -24,7 +24,7 @@ f/6.3 | 1/100 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
 f/3.5 | 1/60 | ISO 1250
 
-Day 1:
+**_Day 1:_**
 
 After coffee and pastries in the city, we decided to drive down Highway 1 towards Pacifica and Half Moon Bay to spend some time along the coast.
 
@@ -52,7 +52,14 @@ After a game of soccer at a local park, we headed back to SF for dinner in the R
 ![Lambo](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){:class="blog-picture"}
 f/4 | 1/25 | ISO 3200
 
-Although the heat of a July night is pretty brutal, I'm glad Jon hit me up to get out and explore. I had a good time chatting with him
-about camera gear/settings, future projects, and we both ended up with some pretty decent photos to head home and edit.
+**_Day 2:_**
 
-Check out Jon's Flickr page for some of his shots from the night:
+The next morning started with you guessed it,...coffee. This time we opted for a place walking distance from my brothers apartment in Russian Hill.
+
+![Lambo](https://c1.staticflickr.com/9/8322/29459942161_8245799e26_b.jpg){:class="blog-picture"}
+f/6.3 | 1/400 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8051/29459938951_fb58254731_b.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+After lunch and some time walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto.
