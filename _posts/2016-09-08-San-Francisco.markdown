@@ -54,7 +54,7 @@ f/4 | 1/25 | ISO 3200
 
 **_Day 2:_**
 
-The next morning started with you guessed it,...coffee. This time we opted for a place walking distance from my brothers apartment in Russian Hill.
+The next morning started with...you guessed it, awesome coffee! This time we opted for a place walking distance from my brothers apartment in Russian Hill.
 
 ![Lambo](https://c1.staticflickr.com/9/8322/29459942161_8245799e26_b.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
@@ -62,4 +62,16 @@ f/6.3 | 1/400 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8051/29459938951_fb58254731_b.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
 
-After lunch and some time walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto.
+From there we headed to Ocean Beach and the Sutro Baths. We lucked out as the weather was sunny and warm all over the city that day.
+
+![Lambo](https://c1.staticflickr.com/9/8098/29459945961_c7352f1192_b.jpg){:class="blog-picture"}
+f/6.3 | 1/400 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8065/29506285666_e5baafa019_b.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8331/29459961791_afece3ab9a_b.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
+
+![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
+f/4 | 1/5 | ISO 100
