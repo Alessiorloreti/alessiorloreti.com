@@ -74,4 +74,5 @@ f/4 | 1/5 | ISO 100
 f/4 | 1/5 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
+
 f/4 | 1/5 | ISO 100
