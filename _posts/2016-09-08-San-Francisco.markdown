@@ -47,7 +47,7 @@ After lunch and some time walking around Half Moon Bay State Beach, we headed in
 ![Lambo](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){:class="blog-picture"}
 f/3.5 | 1/25 | ISO 3200
 
-After a game of soccer at a local park, we headed back to SF for dinner in the Richmond District.
+We played a game of soccer at a local park, and then headed back to SF as the sun was setting. We finished off the night with dinner at an Italian restaurant in the Richmond District. 
 
 ![Lambo](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){:class="blog-picture"}
 f/4 | 1/25 | ISO 3200
