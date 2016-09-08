@@ -74,7 +74,6 @@ f/8 | 1/640 | ISO 100
 f/8 | 1/400 | ISO 100
 
 ![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
-
 f/8 | 1/320 | ISO 100
 
 Later in the day, we relaxed for a little bit and watched college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's one of my brothers attempting to dunk...
