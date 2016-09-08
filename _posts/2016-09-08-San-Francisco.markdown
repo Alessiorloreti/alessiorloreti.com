@@ -24,7 +24,7 @@ f/6.3 | 1/80 | ISO 1250
 ![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
 f/6.3 | 1/60 | ISO 3200
 
-The first night was pretty low key after that and I got to catch up on some much needed rest (other than a bum waking us in the middle of the night yelling at his suitcase outside of the apartment...).
+The first night was pretty low key after that and I got to catch up on some much needed rest.
 
 **_Day 1:_**
 
