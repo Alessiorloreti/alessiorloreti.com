@@ -21,7 +21,7 @@ I arrived into SFO Friday evening, and got picked up by my three brothers and da
 
 ![](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){: .blog-picture}
 
-> f/6.3 | 1/80 | ISO 1250 {: .blockquote }
+>f/6.3 | 1/80 | ISO 1250 {: .blockquote }
 
 
 ![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
