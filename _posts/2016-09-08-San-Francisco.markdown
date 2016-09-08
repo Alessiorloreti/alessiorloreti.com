@@ -104,7 +104,7 @@ f/6.3 | 1/800 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){:class="blog-picture"}
 f/6.3 | 1/800 | ISO 100
 
-The weekend flew by, but it was a much needed break from work and the heat of summer in the South. As always, it was awesome spending time with family and going back to one of my favorite cities in the U.S.
+The weekend flew by way too fast, but it was definitely a much needed break from work and the heat of summer in the South. As always, it was awesome spending time with family and going back to one of my favorite cities in the U.S.
 
 So long San Francisco, now back to Atlanta.
 
