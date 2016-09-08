@@ -42,7 +42,7 @@ f/5 | 1/160 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8844/29431241372_986ecb36cd_c.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
 
-After lunch and some time walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto.
+After lunch and about 2 hours walking around Half Moon Bay State Beach, we headed inland to get some Blue Bottle Coffee and wander around Palo Alto. Blue Bottle Coffee is always a must when visiting the Bay Area, and the Palo Alto location is housed in the Varsity Theatre which was built in the 1920s and has a cool courtyard.
 
 ![Lambo](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){:class="blog-picture"}
 f/6.3 | 1/4000 | ISO 100
