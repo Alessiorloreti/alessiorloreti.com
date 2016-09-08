@@ -20,6 +20,7 @@ For Labor Day weekend I decided to head out west and meet my family in San Franc
 I arrived into SFO Friday evening, and got picked up by my three brothers and dad. Thirty minutes later we were in the city as the sun was setting and we all decided to walk down to the waterfront for what looked like the makings of an epic sunset. We weren't dissappointed and arrived just in time. 
 
 ![Lambo](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){.blog-picture}
+
 >f/6.3 | 1/80 | ISO 1250
 
 
