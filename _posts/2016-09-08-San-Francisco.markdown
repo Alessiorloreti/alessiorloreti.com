@@ -77,7 +77,7 @@ f/4 | 1/5 | ISO 100
 
 f/4 | 1/5 | ISO 100
 
-Later in the day, we relaxed for a little back at the apartment, and then walked down to the nearby park for a quick game of basketball. Here's my brother attempting to dunk...
+Later in the day, we relaxed for a little bit and watched college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's my brother attempting to dunk...
 
 ![Lambo](https://c1.staticflickr.com/9/8034/28918001143_1784b9d688_b.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
@@ -85,7 +85,7 @@ f/6.3 | 1/400 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8020/28917992533_5a993919b1_c.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
 
-We finished off the evening by flying my brother's drone from the roof of the apartment and then dinner & ice cream.
+When we got back home, we snuck onto the roof of the apartment to fly my brother's drone. The view from up there really makes you appreciate how big the city of San Francisco is. Also, it doesn't matter how many times I see the Golden Gate Bridge, it's always impressive and worth a photo.
 
 ![Lambo](https://c1.staticflickr.com/9/8280/29250836490_0bae3131a1_c.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
@@ -95,9 +95,9 @@ f/4 | 1/5 | ISO 100
 
 **_Day 3:_**
 
-I had to get to the airport around noon, so we didn't have time to do much that last morning. After coffee and making breakfast at home, we said our goodbyes, and I headed to the airport.
+And just like that, the trip was pretty much over. I had to get to the airport around noon, so we didn't have time to do much that last morning. We went out for coffee and then made breakfast at home. After packing, we said our goodbyes, and I headed to the airport.
 
-On the way, I asked my brother if we could stop at Treasure Island to get a couple last photos of the Bay Bridge and downtown San Francisco.
+On the way, I asked my brother if we could stop at Treasure Island to get a few final photos of the Bay Bridge and downtown San Francisco.
 
 ![Lambo](https://c1.staticflickr.com/9/8669/29431335362_1ce0f5c6ca_b.jpg){:class="blog-picture"}
 f/6.3 | 1/400 | ISO 100
@@ -105,9 +105,9 @@ f/6.3 | 1/400 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8424/28915572914_dff9d5808d_c.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
 
-It was a quick trip, but a much needed break from work and the heat of the South. As always, it was awesome spending time with my family and going back to one of my favorite cities in the U.S.
+The weekend flew by, but it was a much needed break from work and the heat of summer in the South. As always, it was awesome spending time with family and going back to one of my favorite cities in the U.S.
 
-So long S.F., now back to Atlanta.
+So long San Francisco, now back to Atlanta.
 
 ![Lambo](https://c1.staticflickr.com/9/8166/29250882180_e27394d846_b.jpg){:class="blog-picture"}
 f/4 | 1/5 | ISO 100
