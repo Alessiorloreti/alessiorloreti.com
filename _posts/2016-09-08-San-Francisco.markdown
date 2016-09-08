@@ -47,14 +47,14 @@ After lunch and about 2 hours of walking around Half Moon Bay State Beach, we he
 ![Lambo](https://c2.staticflickr.com/8/7714/29459926361_cf372b9f3c_b.jpg){:class="blog-picture"}
 f/6.3 | 1/4000 | ISO 100
 
-Late we played a game of soccer at a local park, and then headed back to SF as the sun was setting. We finished off the night with dinner at an Italian restaurant in the Richmond District. 
+Later we played a game of soccer at a local park, and then headed back to SF as the sun was setting. We finished off the night with dinner at an Italian restaurant in the Richmond District. 
 
 ![Lambo](https://c1.staticflickr.com/9/8105/29459931301_3d7faa0e05_b.jpg){:class="blog-picture"}
 f/4 | 1/80 | ISO 100
 
 **_Day 2:_**
 
-The next morning started with...you guessed it, awesome coffee! This time we opted for a place walking distance from my brothers apartment in Russian Hill.
+The next morning started with...you guessed it, awesome coffee! This time we opted for a place walking distance from my brother's apartment in Russian Hill.
 
 ![Lambo](https://c1.staticflickr.com/9/8322/29459942161_8245799e26_b.jpg){:class="blog-picture"}
 f/2 | 1/125 | ISO 100
@@ -62,7 +62,7 @@ f/2 | 1/125 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8051/29459938951_fb58254731_b.jpg){:class="blog-picture"}
 f/8 | 1/1000 | ISO 100
 
-From there we headed to Ocean Beach and the Sutro Baths. We lucked out as the weather was sunny and warm all over the city that day.
+From there we drove to Ocean Beach and the Sutro Baths to walk around. We lucked out as the weather was sunny and warm all over the city that day.
 
 ![Lambo](https://c1.staticflickr.com/9/8098/29459945961_c7352f1192_b.jpg){:class="blog-picture"}
 f/8 | 1/4000 | ISO 100
@@ -76,7 +76,7 @@ f/8 | 1/400 | ISO 100
 ![Lambo](https://c1.staticflickr.com/9/8835/28917960663_aae2249a80_c.jpg){:class="blog-picture"}
 f/8 | 1/320 | ISO 100
 
-Later in the day, we relaxed for a little bit and watched college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's one of my brothers attempting to dunk...
+Later in the day, we relaxed for a little bit and watched some college football, and then walked down to a nearby park for some 2 on 2 basketball. Here's one of my brothers attempting to dunk...haha good ups though.
 
 ![Lambo](https://c1.staticflickr.com/9/8034/28918001143_1784b9d688_b.jpg){:class="blog-picture"}
 f/5 | 1/1250 | ISO 100
