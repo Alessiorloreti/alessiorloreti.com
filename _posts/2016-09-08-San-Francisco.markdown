@@ -10,7 +10,7 @@ Camera - Sony A6000
 
 Lenses - Sony 16-50mm f/3.5-5.6 | Rokinon 12mm f/2.0 | Sony 18-105mm f/4
 
----
+* * *
 
 
 For Labor Day weekend I decided to head out west and meet my family in San Francisco for a couple days of exploring and enjoying some ~~good~~ ...great food/coffee. Here are some of the photos from the 3 days we spent together.
@@ -24,7 +24,7 @@ f/6.3 | 1/80 | ISO 1250
 
 
 ![Lambo](https://c1.staticflickr.com/9/8559/29540424195_1ae329ec62_b.jpg){:class="blog-picture"}
-f/6.3 | 1/60 | ISO 3200
+f/6.3 | 1/60 | ISO 3200 {:class="exif"}
 
 The first night was pretty low key after that and I got to catch up on some much needed rest.
 
