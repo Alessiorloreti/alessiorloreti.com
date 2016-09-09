@@ -9,13 +9,16 @@ $(function() {
     var img = $(this).find(".fill")[0].style.backgroundImage.slice(4,-1);
     images.push(img);
   })
+  $(".blog-picture").each(function(){
+    var img = $(this).attr("src");
+    images.push(img);
+  })
 
   $.fn.preload = function() {
     this.each(function(){
         $('<img/>').src = this;
     });
   }
-  console.log(images);
   $(images).preload();
 
   $( ".carousel-inner .item:first-child" ).addClass("active")
