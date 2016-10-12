@@ -54,6 +54,12 @@ I arrived into SFO Friday evening, and got picked up by my three brothers and da
 
 >f/9 \| 1/250 \| ISO 100
 
+
 ![](https://c2.staticflickr.com/6/5694/30154824962_ac4d8708b5_b.jpg){: .blog-picture}
+
+>f/5 \| 1/2500 \| ISO 100
+
+
+![](https://c2.staticflickr.com/6/5821/30270451445_b8acd80e1d_c.jpg){: .blog-picture}
 
 >f/5 \| 1/2500 \| ISO 100
