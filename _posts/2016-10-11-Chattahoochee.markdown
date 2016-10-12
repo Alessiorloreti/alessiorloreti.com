@@ -12,14 +12,9 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 * * *
 
-
-For Labor Day weekend I decided to head out west and meet my family in San Francisco for a couple days of exploring and enjoying some ~~good~~ ...great food/coffee. Here are some of the photos from the 3 days we spent together.
-
-**_Day 0.5:_**
-
 I arrived into SFO Friday evening, and got picked up by my three brothers and dad. Thirty minutes later we were in the city as the sun was setting and we all decided to walk down to the waterfront for what looked like the makings of an epic sunset. We weren't dissappointed and arrived just in time. 
 
-![](https://c1.staticflickr.com/9/8163/29540428375_9e017bedfa_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5740/29639784174_a73eb16520_b.jpg){: .blog-picture}
 
 >f/6.3 \| 1/80 \| ISO 1250
 
