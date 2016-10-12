@@ -8,7 +8,7 @@ permalink: /Chattahoochee/
 
 Camera - Sony A6000
 
-Lens - Sony 16-50mm f/3.5-5.6
+Lens - Sony 18-105mm f/4
 
 * * *
 
