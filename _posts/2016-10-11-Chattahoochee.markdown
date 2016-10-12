@@ -12,7 +12,7 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 * * *
 
-I arrived into SFO Friday evening, and got picked up by my three brothers and dad. Thirty minutes later we were in the city as the sun was setting and we all decided to walk down to the waterfront for what looked like the makings of an epic sunset. We weren't dissappointed and arrived just in time. 
+Fall has quickly arrived in Georgia, which means it's time to spend more time outdoors enjoying the cooler temperatures and watching the leaves change to their autumn colors. A friend and I decided to go for a hike on a recent Sunday afternoon to take full advantage of the the perfect fall conditions, and also to see how our new pup would do on a hike. My wife and I recently rescued a sweet 15lb Boston Terrier mix dog named Huck, who has what seems like infinite energy, so I wanted to see how he would do around other dogs and if a good hike would tire him out. After 4 miles on the trails and in the sun, everyone was exhausted, except for little Huck! He did amazing on the hike, so I'm happy to say I have a new favorite hiking buddy. Here are some photos from our afternoon hiking along the Chattahoochee. 
 
 ![](https://c2.staticflickr.com/6/5740/29639784174_a73eb16520_b.jpg){: .blog-picture}
 
