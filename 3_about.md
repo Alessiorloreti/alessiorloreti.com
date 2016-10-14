@@ -18,7 +18,7 @@ Thank you for visiting my page.
 
   <a target='_blank' href='https://www.flickr.com/photos/alessiorloreti'><i class='fa fa-flickr'></i>Flickr</a>
 
-  <a target='_blank' href='https://500px.com/alessiorloreti'><i class='fa fa-flickr'></i>500px</a>
+  <a target='_blank' href='https://500px.com/alessiorloreti'><i class='fa fa-500px'></i>500px</a>
 
   <a href='mailto:alessiorloreti@gmail.com?Subject=Hello'><i class="fa fa-envelope"></i>Email</a>
 </div>
