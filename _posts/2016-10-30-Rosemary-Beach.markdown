@@ -14,63 +14,46 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 Rosemary Beach for 2 hours
 
-![](https://c2.staticflickr.com/6/5740/29639784174_a73eb16520_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5743/30670892275_78e1d0429d_b.jpg){: .blog-picture}
 
 >f/4 \| 1/50 \| ISO 100
 
 
-![](https://c1.staticflickr.com/9/8407/30235656386_d92109f81a_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5547/30037146373_9c6ed4f869_b.jpg){: .blog-picture}
 
 >f/9 \| 1/160 \| ISO 100
 
 
-![](https://c1.staticflickr.com/9/8278/29640313983_7e170bf240_b.jpg){: .blog-picture}
-
->f/4 \| 1/640 \| ISO 100
-
-![](https://c2.staticflickr.com/6/5631/30235660226_d34ff8078a_b.jpg){: .blog-picture}
-
->f/4 \| 1/160 \| ISO 100
-
-![](https://c2.staticflickr.com/8/7484/30235648596_f6b0b85a95_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5743/30371263950_8e56b1dbca_z.jpg){: .blog-picture}
 
 >f/4 \| 1/640 \| ISO 100
 
 
-![](https://c2.staticflickr.com/6/5635/30154841652_30e420eb4f_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5475/30670887855_552cd5a154_z.jpg){: .blog-picture}
 
->f/7.1 \| 1/320 \| ISO 100
+>f/4 \| 1/50 \| ISO 100
 
 
-![](https://c1.staticflickr.com/9/8548/30154836002_f771f02dc1_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5614/30371260080_898731bd53_b.jpg){: .blog-picture}
+
+>f/9 \| 1/160 \| ISO 100
+
+
+![](https://c2.staticflickr.com/6/5539/30554096822_13663d03f9_z.jpg){: .blog-picture}
 
 >f/4 \| 1/640 \| ISO 100
 
-![](https://c1.staticflickr.com/9/8270/29640275873_c0169130c6_b.jpg){: .blog-picture}
 
->f/8 \| 1/125 \| ISO 100
+![](https://c2.staticflickr.com/6/5812/30670879475_8e6ef00723_z.jpg){: .blog-picture}
 
-
-![](https://c1.staticflickr.com/9/8138/30270466425_3b40895ffa_c.jpg){: .blog-picture}
-
->f/9 \| 1/125 \| ISO 100
+>f/4 \| 1/640 \| ISO 100
 
 
-![](https://c2.staticflickr.com/6/5694/30154824962_ac4d8708b5_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5611/30634289296_573b640120_z.jpg){: .blog-picture}
 
->f/9 \| 1/125 \| ISO 250
-
-
-![](https://c2.staticflickr.com/6/5821/30270451445_b8acd80e1d_c.jpg){: .blog-picture}
-
->f/5 \| 1/400 \| ISO 100
+>f/4 \| 1/640 \| ISO 100
 
 
-![](https://c2.staticflickr.com/8/7771/30154808892_900a929c67_c.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5820/30670872525_6762c015e3_z.jpg){: .blog-picture}
 
->f/4.5 \| 1/60 \| ISO 100
-
-
-![](https://c2.staticflickr.com/6/5492/30154814222_814c1f85f7_c.jpg){: .blog-picture}
-
->f/5 \| 1/60 \| ISO 400
+>f/4 \| 1/640 \| ISO 100
