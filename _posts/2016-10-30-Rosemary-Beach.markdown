@@ -53,7 +53,3 @@ Rosemary Beach for 2 hours
 
 >f/4 \| 1/640 \| ISO 100
 
-
-![](https://c2.staticflickr.com/6/5820/30670872525_6762c015e3_z.jpg){: .blog-picture}
-
->f/4 \| 1/640 \| ISO 100
