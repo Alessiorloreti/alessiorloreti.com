@@ -12,7 +12,7 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 * * *
 
-Rosemary Beach is a pretty incredible place. Not only because my wife and I got to spend the weekend with great friends and see two of the best people get married (congrats Loren and George), but also because it is a perfect little town with one of the nicest beaches I've ever seen. I didn't bring out my camera at all over the weekend, except for about 15 minutes while we relaxed on the beach before heading back to Atlanta on our last day. Here are a couple photos I took. I hope you enjoy them!
+Rosemary Beach is a pretty incredible place. Not only because my wife and I got to spend the weekend with great friends and see two of the best people get married (congrats Loren and George), but also because it is a perfect little town with one of the nicest beaches I've ever been to. I didn't bring out my camera at all over the weekend, except for about 15 minutes while we relaxed on the beach before heading back to Atlanta on our last day. Here are a couple of the photos I took. I hope you enjoy them!
 
 ![](https://c2.staticflickr.com/6/5743/30670892275_78e1d0429d_b.jpg){: .blog-picture}
 
