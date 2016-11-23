@@ -24,6 +24,11 @@ I hope you enjoy them!
 >f/5.6 \| 1/1000 \| ISO 100
 
 
+![](https://c2.staticflickr.com/6/5695/30933174972_6c6b6d66ba_b.jpg){: .blog-picture}
+
+>f/7.1 \| 1/125 \| ISO 100
+
+
 ![](https://c2.staticflickr.com/6/5654/30961366521_a02222a1ec_b.jpg){: .blog-picture}
 
 >f/7.1 \| 1/80 \| ISO 125
