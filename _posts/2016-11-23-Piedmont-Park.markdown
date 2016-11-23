@@ -49,6 +49,11 @@ I hope you enjoy them!
 >f/20 \| 1/60 \| ISO 640
 
 
+![](https://c2.staticflickr.com/6/5581/31039806076_0a780d826e_b.jpg){: .blog-picture}
+
+>f/7.1 \| 1/60 \| ISO 200
+
+
 ![](https://c2.staticflickr.com/6/5473/31039779746_8f8340aa0f_b.jpg){: .blog-picture}
 
 >f/11 \| 1/80 \| ISO 400
