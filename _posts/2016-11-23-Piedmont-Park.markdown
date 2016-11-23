@@ -12,26 +12,26 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 * * *
 
-Rosemary Beach is a pretty incredible place. Not only because my wife and I got to spend the weekend with great friends and see two of the best people get married (congrats Loren and George), but also because it is a perfect little town with one of the nicest beaches I've ever been to. I didn't bring out my camera at all over the weekend, except for about 15 minutes while we relaxed on the beach before heading back to Atlanta on our last day. Here are a couple of the photos I took. I hope you enjoy them!
+I hope you enjoy them!
 
-![](https://c2.staticflickr.com/6/5743/30670892275_78e1d0429d_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5588/31039811916_d877ca0eec_b.jpg){: .blog-picture}
 
->f/5.6 \| 1/2000 \| ISO 100
-
-
-![](https://c2.staticflickr.com/6/5547/30037146373_9c6ed4f869_b.jpg){: .blog-picture}
-
->f/8 \| 1/640 \| ISO 100
+>f/7.1 \| 1/60 \| ISO 320
 
 
-![](https://c2.staticflickr.com/6/5743/30371263950_8e56b1dbca_z.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5787/30933143142_94ac3f0c8b_b.jpg){: .blog-picture}
 
->f/5.6 \| 1/2500 \| ISO 100
+>f/5.6 \| 1/1000 \| ISO 100
 
 
-![](https://c2.staticflickr.com/6/5475/30670887855_552cd5a154_z.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5654/30961366521_a02222a1ec_b.jpg){: .blog-picture}
 
->f/5.6 \| 1/1600 \| ISO 100
+>f/7.1 \| 1/80 \| ISO 125
+
+
+![](https://c2.staticflickr.com/6/5695/30933174972_6c6b6d66ba_b.jpg){: .blog-picture}
+
+>f/7.1 \| 1/125 \| ISO 100
 
 
 ![](https://c2.staticflickr.com/6/5614/30371260080_898731bd53_b.jpg){: .blog-picture}
