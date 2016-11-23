@@ -29,26 +29,31 @@ I hope you enjoy them!
 >f/7.1 \| 1/80 \| ISO 125
 
 
-![](https://c2.staticflickr.com/6/5695/30933174972_6c6b6d66ba_b.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5661/31039786076_39f1d94af9_b.jpg){: .blog-picture}
 
->f/7.1 \| 1/125 \| ISO 100
-
-
-![](https://c2.staticflickr.com/6/5614/30371260080_898731bd53_b.jpg){: .blog-picture}
-
->f/5.6 \| 1/2500 \| ISO 100
+>f/10 \| 1/60 \| ISO 100
 
 
-![](https://c2.staticflickr.com/6/5539/30554096822_13663d03f9_z.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5531/30961328991_9bbe1d64a6_b.jpg){: .blog-picture}
 
->f/18 \| 1/320 \| ISO 100
-
-
-![](https://c2.staticflickr.com/6/5812/30670879475_8e6ef00723_z.jpg){: .blog-picture}
-
->f/18 \| 1/250 \| ISO 100
+>f/5 \| 1/1000 \| ISO 100
 
 
-![](https://c2.staticflickr.com/6/5611/30634289296_573b640120_z.jpg){: .blog-picture}
+![](https://c2.staticflickr.com/6/5526/31039772866_4c1e0dc51c_b.jpg){: .blog-picture}
 
->f/18 \| 1/125 \| ISO 100
+>f/20 \| 1/60 \| ISO 640
+
+
+![](https://c2.staticflickr.com/6/5473/31039779746_8f8340aa0f_b.jpg){: .blog-picture}
+
+>f/11 \| 1/80 \| ISO 400
+
+
+![](https://c2.staticflickr.com/6/5748/31075544555_17bb7e3421_b.jpg){: .blog-picture}
+
+>f/5 \| 1/100 \| ISO 200
+
+
+![](https://c2.staticflickr.com/6/5649/31039817046_5657500354_b.jpg){: .blog-picture}
+
+>f/6.3 \| 1/60 \| ISO 160
