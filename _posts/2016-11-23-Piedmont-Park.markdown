@@ -12,7 +12,9 @@ Lens - Sony 16-50mm f/3.5-5.6
 
 * * *
 
-I hope you enjoy them!
+Here are some of my favorite photos from a fall evening riding my bike through Piedmont Park. I also made a short YouTube video while I was there. Check it out in the link below. I hope you enjoy them!
+
+https://www.youtube.com/watch?v=NLW126WxRpY
 
 ![](https://c2.staticflickr.com/6/5588/31039811916_d877ca0eec_b.jpg){: .blog-picture}
 
