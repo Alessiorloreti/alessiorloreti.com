@@ -6,9 +6,10 @@ categories: update
 permalink: /WarsawBerlin/
 ---
 
-Camera - Sony A6000   <http://amzn.to/2sS2unt>
+Camera: 
+  * Sony A6000   <http://amzn.to/2sS2unt>
 
-Lenses
+Lenses:
   * Sony 16-50mm f/3.5-5.6
   * Sony 18-105mm f/4
   * Rokinon 12mm f/2
