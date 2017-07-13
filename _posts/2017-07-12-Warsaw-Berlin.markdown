@@ -10,9 +10,9 @@ Camera:
   * Sony A6000   <http://amzn.to/2sS2unt>
 
 Lenses:
-  * Sony 16-50mm f/3.5-5.6
-  * Sony 18-105mm f/4
-  * Rokinon 12mm f/2
+  * Sony 16-50mm f/3.5-5.6 <http://amzn.to/2ug8oCo>
+  * Sony 18-105mm f/4 <http://amzn.to/2sSufMw>
+  * Rokinon 12mm f/2 <http://amzn.to/2sS26Fz>
 
 * * *
 
