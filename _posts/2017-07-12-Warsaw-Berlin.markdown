@@ -18,4 +18,8 @@ Lenses:
 
 Here are some of my favorite photos from a fall evening riding my bike through Piedmont Park. 
 
-![](https://c2.staticflickr.com/6/5588/31039811916_d877ca0eec_b.jpg){: .blog-picture}
+![](https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4235/35008845944_005292cffd_b.jpg){: .blog-picture}
