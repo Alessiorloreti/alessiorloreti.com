@@ -16,3 +16,6 @@ url: "http://alessiorloreti.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+# Google services
+google_analytics: UA—102761465-1
