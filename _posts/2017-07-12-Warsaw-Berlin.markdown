@@ -23,3 +23,27 @@ Here are some of my favorite photos from a fall evening riding my bike through P
 ![](https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg){: .blog-picture}
 
 ![](https://c1.staticflickr.com/5/4235/35008845944_005292cffd_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4208/35808301616_da160c6d5f_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4236/35008855644_02cf756187_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4211/35717038471_558788559c_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4233/35460920100_c712fdd0b9_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4253/35460925510_eb03e5bbda_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4253/35039359233_ae5c4d2b66_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4265/35039364213_f9237057a5_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4279/35008875864_992a496338_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4217/35008887864_478913781c_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4286/35717073161_1aa75fa013_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4217/35039401013_cb6d373473_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4277/35808367616_a6b37d130f_b.jpg){: .blog-picture}
