@@ -47,3 +47,5 @@ Here are some of my favorite photos from a fall evening riding my bike through P
 ![](https://c1.staticflickr.com/5/4217/35039401013_cb6d373473_b.jpg){: .blog-picture}
 
 ![](https://c1.staticflickr.com/5/4277/35808367616_a6b37d130f_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4286/35039413653_07dc4fb62a_b.jpg){: .blog-picture}
