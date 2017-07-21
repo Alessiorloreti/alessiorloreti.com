@@ -16,7 +16,7 @@ Lenses:
 
 * * *
 
-Here are some of my favorite photos from a fall evening riding my bike through Piedmont Park. 
+In July 2017 I was given the opportunity to travel to Warsaw and Berlin for a work trip for 2 weeks. It was my first time to Poland and Germany and I loved both cities. Here are some of my favorite photos from my trip!
 
 ![](https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg){: .blog-picture}
 
