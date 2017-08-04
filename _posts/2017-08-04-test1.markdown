@@ -16,4 +16,6 @@ Lenses:
 
 * * *
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/NLW126WxRpY" frameborder="0" allowfullscreen></iframe>
+<iframe width="810" height="456" src="https://www.youtube.com/embed/NLW126WxRpY" frameborder="0" allowfullscreen></iframe>
+
+{% include advertisements.html %}
