@@ -17,7 +17,7 @@ Lenses:
 * * *
 
 <div class="photoset-grid-lightbox" data-layout="131" style="visibility: hidden;">
-  <img src="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg" width="1280" height="1707" data-highres="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg">
+  <img src="https://c1.staticflickr.com/5/4257/35717248601_b8998ce06a_b.jpg" width="1280" height="1707" data-highres="https://c1.staticflickr.com/5/4257/35717248601_b8998ce06a_b.jpg">
   <img src="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg" height="663" data-highres="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg">
   <img src="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg" width="500" height="500" data-highres="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg">
   <img src="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg" width="500" height="500" data-highres="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg">
