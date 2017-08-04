@@ -21,5 +21,5 @@ Lenses:
   <img src="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg" height="663" data-highres="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg">
   <img src="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg" width="500" height="500" data-highres="https://c1.staticflickr.com/5/4217/35039378543_039945e1c4_b.jpg">
   <img src="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg" width="500" height="500" data-highres="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg">
-  <img src="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg" width="1280" height="1280" data-highres="https://c1.staticflickr.com/5/4287/35679871142_b22e458ede_b.jpg">
+  <img src="https://c1.staticflickr.com/5/4215/35849072315_e2d4af1573_c.jpg" width="1280" height="1280" data-highres="https://c1.staticflickr.com/5/4215/35849072315_e2d4af1573_c.jpg">
 </div>
