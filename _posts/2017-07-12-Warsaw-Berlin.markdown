@@ -175,3 +175,5 @@ In July 2017, I was given the opportunity to travel to Warsaw and Berlin on a wo
 ![](https://c1.staticflickr.com/5/4235/35039716123_b37cc90fd9_b.jpg){: .blog-picture}
 
 If you've made it this far, THANK YOU for checking out the photos from my trip!! :)
+
+{% include advertisements.html %}
