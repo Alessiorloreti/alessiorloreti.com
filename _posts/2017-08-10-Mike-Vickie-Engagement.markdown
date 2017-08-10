@@ -42,3 +42,21 @@ In July 2017,
 ![](https://c1.staticflickr.com/5/4340/35637982323_1001fb83ac_c.jpg){: .blog-picture}
 
 ![](https://c1.staticflickr.com/5/4434/36048970210_2b4d10bd9f_c.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4376/36048969310_9ec6e23cfc_c.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4387/36277509172_3bef9f4ffe_c.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4336/36048967620_c7fabca296_c.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4436/36277508202_becec33f9a_c.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4391/36277507362_301b101a5d_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4440/36048965910_cf73bbab9b_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4346/36277502352_e4c9b10bb4_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4369/36048963830_a5045687b9_b.jpg){: .blog-picture}
+
+![](https://c1.staticflickr.com/5/4421/36048965060_0d5af5dd08_c.jpg){: .blog-picture}
