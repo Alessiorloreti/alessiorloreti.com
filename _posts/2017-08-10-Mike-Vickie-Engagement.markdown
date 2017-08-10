@@ -60,3 +60,6 @@ In July 2017,
 ![](https://c1.staticflickr.com/5/4369/36048963830_a5045687b9_b.jpg){: .blog-picture}
 
 ![](https://c1.staticflickr.com/5/4421/36048965060_0d5af5dd08_c.jpg){: .blog-picture}
+
+
+{% include advertisements.html %}
