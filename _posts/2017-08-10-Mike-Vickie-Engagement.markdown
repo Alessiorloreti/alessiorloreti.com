@@ -23,6 +23,7 @@ In July 2017,
 
 ![](https://c1.staticflickr.com/5/4426/36048982690_c63da4314c_b.jpg){: .blog-picture}
 
+{: .center}
 ![](https://c1.staticflickr.com/5/4378/36048981860_a5c78685d1_c.jpg){: .blog-picture}
 
 ![](https://c1.staticflickr.com/5/4412/36277502902_4939217f1d_c.jpg){: .blog-picture}
