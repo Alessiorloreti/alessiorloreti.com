@@ -39,5 +39,6 @@ In July 2017,
 
 ![](https://c1.staticflickr.com/5/4364/36048971660_e29eb4bf72_c.jpg){: .blog-picture}
 
-![](https://c1.staticflickr.com/5/4364/36048971660_e29eb4bf72_c.jpg){: .blog-picture}
+![](https://c1.staticflickr.com/5/4340/35637982323_1001fb83ac_c.jpg){: .blog-picture}
 
+![](https://c1.staticflickr.com/5/4434/36048970210_2b4d10bd9f_c.jpg){: .blog-picture}
