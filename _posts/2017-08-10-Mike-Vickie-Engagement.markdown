@@ -15,7 +15,7 @@ Lens:
 
 * * *
 
-In July 2017, 
+I'm so excited to finally be able to share these photos of my good friends Mike and Vickie from their engagement shoot we did a few weeks back. To say that I was a little nervous would be an understatement, but what made thing easy was their vibrant love for each other and fun personalities. I'm honored that they asked me to take these photos and I'm really happy with how they turned out. Congratulations Mike and Vickie and thank you for allowing me to capture some of these amazing memories!
 
 ![](https://c1.staticflickr.com/5/4435/36048986200_4d017644b2_b.jpg){: .blog-picture}
 
